@@ -28,6 +28,11 @@
 			"lang": "es",
 			"name": "Spanish",
 			"path": "lang/es.json"
+		},
+		{
+			"lang": "cn",
+			"name": "中文",
+			"path": "lang/cn.json"
 		}
 	],
 	"socket": true,
@@ -78,3 +83,4 @@
 	"download": "https://github.com/aMediocreDad/litm/archive/refs/tags/v18.zip",
 	"readme": "https://github.com/aMediocreDad/litm/blob/main/README.md"
 }
+
